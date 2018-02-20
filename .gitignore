@@ -78,9 +78,6 @@ src/qt/test/moc*.cpp
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
-dowin-qt
-Dowin-Qt.app
 
 # Unit-tests
 Makefile.test
