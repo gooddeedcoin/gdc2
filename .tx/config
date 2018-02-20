@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[dowin.qt-translation-010x]
+file_filter = src/qt/locale/dowin_<lang>.ts
+source_file = src/qt/locale/dowin_en.ts
+source_lang = en
