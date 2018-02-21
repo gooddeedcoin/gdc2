@@ -3,7 +3,7 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #if defined(HAVE_CONFIG_H)
-#include "config/dowin-config.h"
+#include "config/dagra-config.h"
 #endif
 
 #include <cstring>

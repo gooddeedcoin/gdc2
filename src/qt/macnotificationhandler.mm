@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"io.mycointest.Dowin-Qt";
+        return @"io.mycointest.Dagra-Qt";
     } else {
         return [self __bundleIdentifier];
     }

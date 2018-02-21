@@ -85,7 +85,7 @@ Thanks to who contributed to this release, at least:
 - Gavin Andresen
 - Gregory Maxwell
 - Jeff Garzik
-- Luke Dowinjr
+- Luke Dagrajr
 - Matt Corallo
 - Pieter Wuille
 - Saivann
